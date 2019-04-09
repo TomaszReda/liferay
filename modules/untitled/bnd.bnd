@@ -1,4 +1,0 @@
-Bundle-Name: untitled
-Bundle-SymbolicName: pl.test
-Bundle-Version: 1.0.0
-Export-Package: pl.test.constants
